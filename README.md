@@ -30,7 +30,7 @@ Use this link to download Edge WebDriver: https://developer.microsoft.com/en-us/
 
 Before running `run.py`, you’ll need to modify some variables in `login_info.py` to fit your personal information.
 
-Modify the following fields in login_info.py:
+Modify the following fields in `login_info.py`:
 
 1.	Personal Information:
     ```python
