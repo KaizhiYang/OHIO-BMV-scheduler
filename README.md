@@ -2,7 +2,7 @@
 
 ## Description
 
-Automatically extract available slots at OHIO BMV for driver test. **To use this script, you have to have a valid learner's permit1!**
+Automatically extract available slots at OHIO BMV for driver test. **To use this script, you have to have a valid learner's permit!**
 
 ## Installation
 
